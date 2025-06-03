@@ -31,7 +31,7 @@ CORS(app, resources={
 
 # ThingsBoard Configuration
 THINGSBOARD_URL = "http://43.205.64.196:8080/api/v1/hnFF4SXNSfk9S6UDkovi/telemetry"
-CAMERA_FEED_URL = "http://192.168.1.33:8001/video_feed" 
+CAMERA_FEED_URL = "http://192.168.1.122:8001/video_feed" 
 
 # HTML template for testing interface
 HTML_TEMPLATE = """
