@@ -1,0 +1,5 @@
+/data
+/captured_images
+/ai-intrusion-detection/safety.names
+/ai-intrusion-detection/safety.pt
+/ai-intrusion-detection/yolov8n.pt
